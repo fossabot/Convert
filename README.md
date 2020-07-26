@@ -4,14 +4,14 @@ Make string conversion and if return statements a piece of cake.
 
 # Installation
 
-`npm i convert --save`
+`npm i conloy`
 
 Then...
 
 ```
-import { convert } from 'convert';
+import { conloy } from 'conloy';
 
-Convert(x, y, target, location, caseSensitivity, crossConversion);
+conloy(x, y, target, location, caseSensitivity, crossConversion);
 ```
 
 ## Options

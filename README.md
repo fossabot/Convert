@@ -1,6 +1,6 @@
 # What is this?
 
-Make string conversion and if return statements a piece of cake.
+Make string conversion and if return statements a breeze.
 
 # Installation
 
@@ -9,14 +9,14 @@ Make string conversion and if return statements a piece of cake.
 Then...
 
 ```
-import { conloy } from 'conloy';
+import { convert } from 'convert';
 
-conloy(x, y, target, location, caseSensitivity, crossConversion);
+convert(x, y, target, location, caseSensitivity, crossConversion);
 ```
 
 ## Options
 
-Convert supports 6 parameters, 3 of which are optional:
+This function supports 6 parameters, 3 of which are optional:
 
 * *x* - _The text that will be converted_ (Supports arrays)
 * *y* - _The text that x will be converted to_ (Supports arrays, returned or printed in document if location is not mentioned) 

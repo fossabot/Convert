@@ -9,7 +9,7 @@ Make string conversion and if return statements a breeze.
 Then...
 
 ```
-import { convert } from 'convert';
+import { convert } from 'conloy';
 
 convert(x, y, target, location, caseSensitivity, crossConversion);
 ```
